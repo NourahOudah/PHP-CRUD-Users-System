@@ -51,9 +51,41 @@ Columns:
 4. Upload the files to a PHP server.
 5. Open f.html in the browser.
 
+
+## Steps Completed
+
+1. Created a MySQL database and created a table named users.
+
+2. Created the users table with the following columns:
+   - id (Primary Key)
+   - name
+   - age
+   - status
+
+3. Created an HTML form to enter user name and age.
+
+4. Connected PHP files with the MySQL database.
+
+5. Stored submitted data into the users table.
+
+6. Displayed all records from the database in an HTML table.
+
+7. Added a Toggle button to change the status value between 0 and 1.
+
+8. Used JavaScript and PHP to update the status immediately without refreshing the page.
+
+9. Uploaded the project files to a PHP hosting server.
+
 ## Features
 
 - User registration form.
 - Display users in a table.
 - Toggle status functionality.
 - Dynamic status update.
+
+
+## Project Link
+
+You can access the project here:
+
+https://mysitn.rf.gd/f.html
